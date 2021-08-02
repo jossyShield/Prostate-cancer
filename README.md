@@ -12,6 +12,8 @@ v-next
 Formatting user inputs to model expert system requirements.
 
 NOTE: This project is open source. You can contribute to it by raising issues, improving docs, fixing bugs, adding features, etc. For this system to run smoothly you may change your database parameters in src/Core/Db.php
-https://github.com/benjaminudoh10/balance-sheet
+
+https://github.com/jossyShield/Prostate-cancer
+
 
 
